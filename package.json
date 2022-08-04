@@ -1,0 +1,19 @@
+{
+  "name": "dummyproject",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alejandro-munozMeridian/dummyProject.git"
+  },
+  "author": "aml",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alejandro-munozMeridian/dummyProject/issues"
+  },
+  "homepage": "https://github.com/alejandro-munozMeridian/dummyProject#readme"
+}
